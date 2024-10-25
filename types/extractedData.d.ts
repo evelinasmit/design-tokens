@@ -1,25 +1,62 @@
-import { GridAlignment, GridPattern } from './valueTypes'
-
-export type extractedGridValues = {
-  pattern: {
-    value: GridPattern
+{
+  "#D9D9D9": {
+    "$type": "color",
+    "$value": "#AA2D2D"
   },
-  sectionSize?: {
-    value: number,
-    unit: string
+  "A text style": {
+    "$type": "typography",
+    "$value": {
+      "fontSize": "16px",
+      "fontFamily": "Comic Neue",
+      "fontWeight": 700,
+      "lineHeight": 1.24,
+      "letterSpacing": "3.3px"
+    },
+    "$description": "Doing some stuff"
   },
-  gutterSize?: {
-    value: number,
-    unit: string
+  "Diamond Gradient": {
+    "$type": "gradient",
+    "$value": [
+      {
+        "color": "#b72f2f",
+        "position": 0
+      },
+      {
+        "color": "#b72f2f00",
+        "position": 1
+      }
+    ],
+    "$description": "aaa"
   },
-  alignment?: {
-    value: GridAlignment
+  "Text & Icons": {
+    "Neutral": {
+      "Primary-Reversed": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#605F60"
+      }
+    }
   },
-  count?: {
-    value: number
+  "Untitled": {
+    "A folder": {
+      "Another 1 style": {
+        "$type": "color",
+        "$value": "#515656",
+        "$description": "Some color"
+      }
+    }
   },
-  offset?: {
-    value: number,
-    unit: string
+  "eee": {
+    "$type": "shadow",
+    "$value": {
+      "blur": "4px",
+      "color": "#00000040",
+      "spread": "0px",
+      "offsetX": "0px",
+      "offsetY": "4px"
+    }
   }
 }
