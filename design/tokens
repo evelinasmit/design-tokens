@@ -1,0 +1,42 @@
+{
+  "Grey Scale": {
+    "Opacity 600": {
+      "24%": {
+        "$type": "color",
+        "$value": "#777C7F3D"
+      }
+    },
+    "Solid": {
+      "100": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "500": {
+        "$type": "color",
+        "$value": "#9A9EA1"
+      }
+    }
+  },
+  "shadow": {
+    "base": {
+      "$type": "shadow",
+      "$value": {
+        "blur": "2px",
+        "color": "#0000000F",
+        "spread": "0px",
+        "offsetX": "0px",
+        "offsetY": "1px"
+      }
+    },
+    "lg": {
+      "$type": "shadow",
+      "$value": {
+        "blur": "6px",
+        "color": "#0000000D",
+        "spread": "-2px",
+        "offsetX": "0px",
+        "offsetY": "4px"
+      }
+    }
+  }
+}
