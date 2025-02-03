@@ -1,0 +1,216 @@
+{
+  "Accent": {
+    "Pink": {
+      "type": "color",
+      "value": "#FFB5CF"
+    }
+  },
+  "Background": {
+    "Neutral": {
+      "Ground": {
+        "type": "color",
+        "value": "#FFFFFF"
+      }
+    }
+  },
+  "Body": {
+    "type": "typography",
+    "value": {
+      "fontSize": "16px",
+      "fontFamily": "Roboto",
+      "fontWeight": 400,
+      "lineHeight": 1.17,
+      "letterSpacing": "0px"
+    }
+  },
+  "Body (Bold)": {
+    "type": "typography",
+    "value": {
+      "fontSize": "16px",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "lineHeight": 1.17,
+      "letterSpacing": "0px"
+    }
+  },
+  "Brand pink": {
+    "Pink-50": {
+      "type": "color",
+      "value": "#F63E7C"
+    }
+  },
+  "Function": {
+    "Error": {
+      "type": "color",
+      "value": "#E75249",
+      "comment": "This is my color for errors"
+    },
+    "Success": {
+      "type": "color",
+      "value": "#3BD378",
+      "comment": "This is my color for success"
+    }
+  },
+  "H2": {
+    "type": "typography",
+    "value": {
+      "fontSize": "40px",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "lineHeight": 1.17,
+      "letterSpacing": "0px"
+    }
+  },
+  "H3": {
+    "type": "typography",
+    "value": {
+      "fontSize": "24px",
+      "fontFamily": "Roboto",
+      "fontWeight": 600,
+      "lineHeight": 1.17,
+      "letterSpacing": "0px"
+    }
+  },
+  "Information": {
+    "Accent": {
+      "type": "color",
+      "value": "#D8DBF5"
+    },
+    "Subtle text": {
+      "type": "color",
+      "value": "#7579A0"
+    },
+    "Text": {
+      "type": "color",
+      "value": "#191C3D"
+    },
+    "Text inverse": {
+      "type": "color",
+      "value": "#F7F7FC"
+    }
+  },
+  "Neutral": {
+    "Grey 100": {
+      "type": "color",
+      "value": "#353535"
+    },
+    "Grey 25": {
+      "type": "color",
+      "value": "#CDCDCD"
+    },
+    "Grey 50": {
+      "type": "color",
+      "value": "#9A9A9A"
+    },
+    "Grey 75": {
+      "type": "color",
+      "value": "#686868"
+    },
+    "Light": {
+      "type": "color",
+      "value": "#FAFCFE"
+    }
+  },
+  "Primary": {
+    "Blue crayola": {
+      "type": "color",
+      "value": "#3F88C5",
+      "comment": "This is my primary color"
+    },
+    "Blue crayola 25": {
+      "type": "color",
+      "value": "#CFE1F1"
+    },
+    "Blue crayola 50": {
+      "type": "color",
+      "value": "#9FC3E2"
+    },
+    "Blue crayola 75": {
+      "type": "color",
+      "value": "#6FA6D4"
+    }
+  },
+  "Secondary": {
+    "Salmon Pink": {
+      "type": "color",
+      "value": "#EF959C",
+      "comment": "This is my secondary color"
+    },
+    "Salmon Pink 25": {
+      "type": "color",
+      "value": "#FBE4E6"
+    },
+    "Salmon Pink 50": {
+      "type": "color",
+      "value": "#F7CACD"
+    },
+    "Salmon Pink 75": {
+      "type": "color",
+      "value": "#F3B0B5"
+    }
+  },
+  "Small": {
+    "type": "typography",
+    "value": {
+      "fontSize": "10px",
+      "fontFamily": "Roboto",
+      "fontWeight": 500,
+      "lineHeight": 1.17,
+      "letterSpacing": "0px"
+    }
+  },
+  "Small title": {
+    "type": "typography",
+    "value": {
+      "fontSize": "10px",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "lineHeight": 1.17,
+      "letterSpacing": "0px"
+    }
+  },
+  "Subtitle": {
+    "type": "typography",
+    "value": {
+      "fontSize": "24px",
+      "fontFamily": "Roboto",
+      "fontWeight": 400,
+      "lineHeight": 1.17,
+      "letterSpacing": "0px"
+    }
+  },
+  "Text": {
+    "Black": {
+      "type": "color",
+      "value": "#484848"
+    },
+    "Body": {
+      "type": "color",
+      "value": "#4A4A68"
+    }
+  },
+  "Text & Icons": {
+    "Action": {
+      "Default": {
+        "type": "color",
+        "value": "#F63E7C"
+      }
+    },
+    "Neutral": {
+      "Primary": {
+        "type": "color",
+        "value": "#212121"
+      }
+    }
+  },
+  "Title (H1)": {
+    "type": "typography",
+    "value": {
+      "fontSize": "64px",
+      "fontFamily": "Roboto",
+      "fontWeight": 700,
+      "lineHeight": 1.17,
+      "letterSpacing": "0px"
+    }
+  }
+}

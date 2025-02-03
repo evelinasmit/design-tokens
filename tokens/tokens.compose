@@ -1,0 +1,40 @@
+
+
+
+package ;
+
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.unit.*
+
+object  {
+  val accentPink = #FFB5CF
+  val backgroundNeutralGround = #FFFFFF
+  val brandPinkPink50 = #F63E7C
+  /** This is my color for errors */
+  val functionError = #E75249
+  /** This is my color for success */
+  val functionSuccess = #3BD378
+  val informationAccent = #D8DBF5
+  val informationSubtleText = #7579A0
+  val informationText = #191C3D
+  val informationTextInverse = #F7F7FC
+  val neutralGrey100 = #353535
+  val neutralGrey25 = #CDCDCD
+  val neutralGrey50 = #9A9A9A
+  val neutralGrey75 = #686868
+  val neutralLight = #FAFCFE
+  /** This is my primary color */
+  val primaryBlueCrayola = #3F88C5
+  val primaryBlueCrayola25 = #CFE1F1
+  val primaryBlueCrayola50 = #9FC3E2
+  val primaryBlueCrayola75 = #6FA6D4
+  /** This is my secondary color */
+  val secondarySalmonPink = #EF959C
+  val secondarySalmonPink25 = #FBE4E6
+  val secondarySalmonPink50 = #F7CACD
+  val secondarySalmonPink75 = #F3B0B5
+  val textBlack = #484848
+  val textBody = #4A4A68
+  val textIconsActionDefault = #F63E7C
+  val textIconsNeutralPrimary = #212121
+}
