@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<resources>
+  <string name="accent_pink">#FFB5CF</string>
+  <string name="background_neutral_ground">#FFFFFF</string>
+  <string name="brand_pink_pink_50">#F63E7C</string>
+  <string name="function_error">#E75249</string><!-- This is my color for errors -->
+  <string name="function_success">#3BD378</string><!-- This is my color for success -->
+  <string name="information_accent">#D8DBF5</string>
+  <string name="information_subtle_text">#7579A0</string>
+  <string name="information_text">#191C3D</string>
+  <string name="information_text_inverse">#F7F7FC</string>
+  <string name="neutral_grey_100">#353535</string>
+  <string name="neutral_grey_25">#CDCDCD</string>
+  <string name="neutral_grey_50">#9A9A9A</string>
+  <string name="neutral_grey_75">#686868</string>
+  <string name="neutral_light">#FAFCFE</string>
+  <string name="primary_blue_crayola">#3F88C5</string><!-- This is my primary color -->
+  <string name="primary_blue_crayola_25">#CFE1F1</string>
+  <string name="primary_blue_crayola_50">#9FC3E2</string>
+  <string name="primary_blue_crayola_75">#6FA6D4</string>
+  <string name="secondary_salmon_pink">#EF959C</string><!-- This is my secondary color -->
+  <string name="secondary_salmon_pink_25">#FBE4E6</string>
+  <string name="secondary_salmon_pink_50">#F7CACD</string>
+  <string name="secondary_salmon_pink_75">#F3B0B5</string>
+  <string name="text_black">#484848</string>
+  <string name="text_body">#4A4A68</string>
+  <string name="text_icons_action_default">#F63E7C</string>
+  <string name="text_icons_neutral_primary">#212121</string>
+  
+</resources>
